@@ -1,0 +1,107 @@
+[
+  {
+    "id": "me-1",
+    "url": "/photos/me/me_01.jpg",
+    "album": "me",
+    "label": "Yuvraj 1",
+    "orig": "file_00000000fd787207bf5c87f867536b95.png"
+  },
+  {
+    "id": "me-2",
+    "url": "/photos/me/me_02.jpg",
+    "album": "me",
+    "label": "Yuvraj 2",
+    "orig": "IMG-20240309-WA0001.jpg"
+  },
+  {
+    "id": "me-3",
+    "url": "/photos/me/me_03.jpg",
+    "album": "me",
+    "label": "Yuvraj 3",
+    "orig": "IMG-20240413-WA0003.jpg"
+  },
+  {
+    "id": "me-4",
+    "url": "/photos/me/me_04.jpg",
+    "album": "me",
+    "label": "Yuvraj 4",
+    "orig": "IMG-20240909-WA0009.jpg"
+  },
+  {
+    "id": "me-5",
+    "url": "/photos/me/me_05.jpg",
+    "album": "me",
+    "label": "Yuvraj 5",
+    "orig": "IMG-20250810-WA0014.jpg"
+  },
+  {
+    "id": "me-6",
+    "url": "/photos/me/me_06.jpg",
+    "album": "me",
+    "label": "Yuvraj 6",
+    "orig": "IMG-20251205-WA0032.jpeg"
+  },
+  {
+    "id": "me-7",
+    "url": "/photos/me/me_07.jpg",
+    "album": "me",
+    "label": "Yuvraj 7",
+    "orig": "IMG-20251206-WA0045.jpg"
+  },
+  {
+    "id": "me-8",
+    "url": "/photos/me/me_08.jpg",
+    "album": "me",
+    "label": "Yuvraj 8",
+    "orig": "IMG_2717.HEIC"
+  },
+  {
+    "id": "udaipur-1",
+    "url": "/photos/udaipur/udaipur_01.jpg",
+    "album": "udaipur",
+    "label": "Udaipur 1",
+    "orig": "IMG_2041.JPG"
+  },
+  {
+    "id": "udaipur-2",
+    "url": "/photos/udaipur/udaipur_02.jpg",
+    "album": "udaipur",
+    "label": "Udaipur 2",
+    "orig": "IMG_2054.JPG"
+  },
+  {
+    "id": "udaipur-3",
+    "url": "/photos/udaipur/udaipur_03.jpg",
+    "album": "udaipur",
+    "label": "Udaipur 3",
+    "orig": "IMG_3447.HEIC"
+  },
+  {
+    "id": "people-1",
+    "url": "/photos/people/people_01.jpg",
+    "album": "people",
+    "label": "Friends & People 1",
+    "orig": "IMG-20241220-WA0014.jpg"
+  },
+  {
+    "id": "people-2",
+    "url": "/photos/people/people_02.jpg",
+    "album": "people",
+    "label": "Friends & People 2",
+    "orig": "IMG-20250923-WA0051.jpg"
+  },
+  {
+    "id": "people-3",
+    "url": "/photos/people/people_03.jpg",
+    "album": "people",
+    "label": "Friends & People 3",
+    "orig": "IMG-20251008-WA0015.jpg"
+  },
+  {
+    "id": "people-4",
+    "url": "/photos/people/people_04.jpg",
+    "album": "people",
+    "label": "Friends & People 4",
+    "orig": "IMG-20251115-WA0176.jpg"
+  }
+]
