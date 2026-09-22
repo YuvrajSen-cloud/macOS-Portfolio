@@ -47,7 +47,7 @@ const getTracks = (musicData: typeof music): Track[] => [
     artist: "Malcolm Todd",
     album: "Sweet Boy",
     duration: "2:58",
-    cover: musicData.cover,
+    cover: "/music/earrings.png",
     audio: "/music/earrings.mp3",
   },
   {
