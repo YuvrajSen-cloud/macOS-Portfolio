@@ -20,7 +20,7 @@ const getTracks = (musicData: typeof music): Track[] => [
     artist: "Ozzy Osbourne",
     album: "Down to Earth",
     duration: "4:45",
-    cover: musicData.cover,
+    cover: "/music/dreamer.png",
     audio: "/music/dreamer.mp3",
   },
   {

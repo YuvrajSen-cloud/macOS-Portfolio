@@ -3,7 +3,7 @@ import type { MusicData } from "~/types";
 const music: MusicData = {
   title: "Dreamer",
   artist: "Ozzy Osbourne",
-  cover: "/music/thumbnail.png",
+  cover: "/music/dreamer.png",
   audio: "/music/dreamer.mp3"
 };
 
