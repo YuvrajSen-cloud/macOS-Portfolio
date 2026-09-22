@@ -14,7 +14,7 @@ const apps: AppsData[] = [
     y: -20,
     img: "img/icons/finder.png",
     mobileTitle: "Files",
-    mobileImg: "img/icons/folder-generic.png",
+    mobileImg: "img/icons/files.svg",
     content: <Finder />,
   },
   {

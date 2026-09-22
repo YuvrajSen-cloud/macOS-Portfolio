@@ -144,11 +144,11 @@ export default function Mobile(props: MacActions) {
                       className="flex flex-col items-center gap-1.5 cursor-pointer active:opacity-70 transition-opacity" 
                       onClick={() => openApp(app.id)}
                     >
-                       <img 
-                         src={`/${app.id === 'finder' ? 'img/icons/folder-generic.png' : app.img}`} 
-                         alt={app.id === 'finder' ? 'Files' : app.id === 'system-settings' ? 'Settings' : app.title} 
-                         className="w-[60px] h-[60px] object-cover rounded-[14px]" 
-                       />
+                        <img 
+                          src={`/${app.id === 'finder' ? 'img/icons/files.svg' : (app.mobileImg || app.img)}`} 
+                          alt={app.id === 'finder' ? 'Files' : app.id === 'system-settings' ? 'Settings' : app.title} 
+                          className="w-[60px] h-[60px] object-cover rounded-[14px]" 
+                        />
                        <span className="text-white text-[11px] font-medium tracking-wide drop-shadow-md text-center whitespace-nowrap overflow-hidden text-ellipsis w-full px-0.5">
                          {app.id === 'finder' ? 'Files' : app.id === 'system-settings' ? 'Settings' : app.title}
                        </span>
