@@ -29,7 +29,7 @@ const getTracks = (musicData: typeof music): Track[] => [
     artist: "Aaron Smith",
     album: "Dancin",
     duration: "3:15",
-    cover: musicData.cover,
+    cover: "/music/dancin.png",
     audio: "/music/dancin.mp3",
   },
   {
