@@ -38,7 +38,7 @@ const getTracks = (musicData: typeof music): Track[] => [
     artist: "Tame Impala",
     album: "Loser",
     duration: "3:34",
-    cover: musicData.cover,
+    cover: "/music/loser.png",
     audio: "/music/loser.mp3",
   },
   {
@@ -56,7 +56,7 @@ const getTracks = (musicData: typeof music): Track[] => [
     artist: "Surf Curse",
     album: "Buds",
     duration: "2:27",
-    cover: musicData.cover,
+    cover: "/music/freaks.png",
     audio: "/music/freaks.mp3",
   },
 ];
